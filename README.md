@@ -186,21 +186,4 @@ This project helps answer questions such as:
 
 ---
 
-##----What I Learned-------------------
 
-Through this project I gained hands-on experience with:
-
-- Building ETL pipelines using AWS Glue and PySpark
-- Implementing Bronze, Silver, and Gold architecture
-- Data cleaning and transformation techniques
-- Working with Parquet files
-- Partitioning datasets for performance optimization
-- Managing metadata with AWS Glue Catalog
-- Querying large datasets using Amazon Athena
-- Designing business-focused analytical datasets
-
----
-
-Srikanth Mallireddy
-
-Aspiring Data Engineer with hands-on experience in AWS, Python, SQL, PySpark, ETL Pipelines, Data Lakes, and Analytics Engineering.
